@@ -1,3 +1,6 @@
+##test git
+
+
 # library(extraDistr)    ##library to generate Dirichlet random variables
 library(MCMCpack)
 library(Rcpp)
